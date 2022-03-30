@@ -8,7 +8,7 @@ Summary:	Sphinx extension to let you write LaTeX math using $$
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa pozwalające pisać wzory matematyczne w LaTeXu przy użyciu $$
 Name:		python-sphinx_math_dollar
 Version:	1.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-math-dollar/
